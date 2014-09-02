@@ -1,4 +1,1 @@
-ideal-greenhouse
-================
-
-Computing wikipedia's idealized greenhouse model
+![](https://github.com/climateblab/ideal-greenhouse/blob/gh-pages/thumb.png)
